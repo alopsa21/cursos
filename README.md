@@ -1,2 +1,2 @@
 # cursos
-Diferentes ejemplos de cursos online
+Diferentes ejemplos de cursos online y tutoriales
