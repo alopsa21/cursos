@@ -1,0 +1,5 @@
+01-login/	-->	Ejemplo simpel de login con Auth0. De la web the Auth0
+secretHeroes/	-->	Este ejemplo es de Angular2 + Express + Auth0 with JSON Web Tokens
+todo-app/	-->	Ejemplo con Angular CLI
+quickstart/	-->	Copia de Tour of Heroes para probar MEAN de https://thinkster.io/tutorials/mean-stack/jumping-in-with-angular
+flapper-news/	-->	Server side the quickstart/
